@@ -1,1 +1,1 @@
-# mini-shop-Boutique add
+# mini-shop-Boutique add mini
